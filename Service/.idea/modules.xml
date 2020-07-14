@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AnotherServiceProvider/AnotherServiceProvider.iml" filepath="$PROJECT_DIR$/../AnotherServiceProvider/AnotherServiceProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service.iml" filepath="$PROJECT_DIR$/Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ServiceApi/ServiceApi.iml" filepath="$PROJECT_DIR$/../ServiceApi/ServiceApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ServiceProvider/ServiceProvider.iml" filepath="$PROJECT_DIR$/../ServiceProvider/ServiceProvider.iml" />
+    </modules>
+  </component>
+</project>
